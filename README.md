@@ -123,7 +123,7 @@ This repository contains real-world IT support documentation, scripts, and proce
 
 ## 📝 Author
 
-**José Carol Lemus Reyes**  
+**José  Lemus **  
 IT Support Technician | Cybersecurity Analyst  
 📧 [Contact via LinkedIn](https://linkedin.com/)  
 🔗 [GitHub Portfolio](https://github.com/)
