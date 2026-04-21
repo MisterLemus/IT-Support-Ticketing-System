@@ -5,7 +5,7 @@
     Collects system health data: hardware, disk, network, services,
     event logs, and generates a diagnostic report for troubleshooting.
 .AUTHOR
-    José Carol Lemus Reyes
+    José  Lemus 
 #>
 
 param(
