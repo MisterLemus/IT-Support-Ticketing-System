@@ -5,7 +5,7 @@
     Automates common AD tasks: password resets, account unlocks, 
     user creation, group management, and account auditing.
 .AUTHOR
-    José Carol Lemus Reyes - IT Support & Cybersecurity
+    José  Lemus  - IT Support & Cybersecurity
 .VERSION
     2.1.0
 #>
