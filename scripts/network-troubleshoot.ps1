@@ -5,7 +5,7 @@
     Automated network diagnostics: ping, DNS, traceroute, port check,
     WiFi analysis, and VPN validation.
 .AUTHOR
-    José Carol Lemus Reyes
+    José  Lemus 
 #>
 
 param(
