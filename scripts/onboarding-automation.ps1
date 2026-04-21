@@ -5,7 +5,7 @@
     Automates complete onboarding: AD account, email, groups,
     shared drives, software deployment, and welcome notification.
 .AUTHOR
-    José Carol Lemus Reyes
+    José  Lemus 
 #>
 
 param(
